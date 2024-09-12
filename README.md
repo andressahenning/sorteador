@@ -2,6 +2,8 @@
 
 Um projeto simples de sorteador de números desenvolvido com HTML, CSS (LESS) e JavaScript. Este projeto permite ao usuário definir um intervalo de números e sorteá-los aleatoriamente, exibindo também um histórico dos números sorteados.
 
+[Acesse:](https://sorteador-grunt-andressa.vercel.app/)
+
 ## Funcionalidades
 
 - **Sorteio de Números**: Escolha um intervalo de números e sorteie um número aleatório.
